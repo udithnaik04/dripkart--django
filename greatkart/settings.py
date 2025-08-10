@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'accounts',
     'store',
     'carts',
+    'orders',
 ]
 
 MIDDLEWARE = [
@@ -157,3 +158,4 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'dripkart04@gmail.com'
 EMAIL_HOST_PASSWORD = 'tgnlftutsqganznm'
 EMAIL_USE_TLS = True
+
